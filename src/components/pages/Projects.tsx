@@ -36,7 +36,7 @@ const projects: Project[] = [
       'A personal portfolio site to showcase my skills, projects, and contact information.',
     techStack: ['React', 'TypeScript',  'Tailwind CSS', 'Vite'],
     liveLink: 'https://your-portfolio-link.netlify.app',
-    githubLink: 'https://github.com/your-username/portfolio-site',
+    githubLink: 'https://github.com/BALAJI-BALAJI/myPortfolio',
     image: 'src/assets/portfolio_img.png',
   },
   {

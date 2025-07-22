@@ -4,7 +4,6 @@ import { Box, CircularProgress } from "@mui/material";
 import { ROUTES } from "../routers/RouterPath";
 
 // Lazy loaded header and other pages
-const Header = lazy(() => import("./shared/Header"));
 const Home = lazy(() => import("./pages/Home"));
 const About = lazy(() => import("./pages/About"));
 const Skills = lazy(() => import("./pages/Skills"));
